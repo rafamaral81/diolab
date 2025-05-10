@@ -5,7 +5,3 @@ CREATE TABLE PRODUTOS (
     preco DECIMAL(18,2),
     imagem_url NVARCHAR(2083)
 )
-
-dbsrvdeveastus001
-rddamaral
-foy3#rNK69gwR$
