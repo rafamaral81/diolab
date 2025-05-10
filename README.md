@@ -4,5 +4,6 @@ Neste desafio de codigo, cadastramos um produto e uma imagem, onde armazenamos n
 
 Neste desafio realizei umas melhorias no codigo, dividindo cadastro e consulta em abas distintas, melhorando a usabilidade do programa
 
-!(./prt1.png)
+!<img width="736" alt="prt1" src="https://github.com/user-attachments/assets/932f678f-ca55-4d68-99c0-00f1d34878a9" />
+
 
